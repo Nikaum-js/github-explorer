@@ -6,10 +6,13 @@
 
 :root {
   --white: #ffffff;
+
+  --text-color: #121214;
 }
 
 body {
   background: var(--white);
+  color: var(--text-color);
 }
 
 @media (max-width: 1080px) {

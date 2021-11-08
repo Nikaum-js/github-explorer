@@ -1,6 +1,8 @@
+import { RepositoryList } from "./components/RepositoryList";
+
 function App() {
   return (
-    <h1>aaaa</h1>
+    <RepositoryList />
   );
 }
 
